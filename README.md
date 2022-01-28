@@ -1,4 +1,6 @@
-# keycloak-services-social-dingtalk
+# keycloak-dingtalk-idp
+
+**对应博客详解 https://www.cnblogs.com/jinxin-c/articles/keycloak_dingtalk.html**
 
 Keycloak dingtalk 授权登录增强插件
 
