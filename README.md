@@ -29,5 +29,6 @@ To install the social dingtalk work one has to:
 特殊说明:
 =========================================================
 > 1.基于 Keycloak 12.0.4版本
+> 2.基于新版钉钉 API 2022/01/27
 
 
