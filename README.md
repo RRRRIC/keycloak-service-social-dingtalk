@@ -1,4 +1,4 @@
-# keycloak-dingtalk-idp
+# keycloak-service-social-dingtalk
 
 **对应博客详解 https://www.cnblogs.com/jinxin-c/articles/keycloak_dingtalk.html**
 
